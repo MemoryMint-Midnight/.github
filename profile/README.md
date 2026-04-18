@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MemoryMint-Midnight/memorymint/main/assets/logo.png" alt="MemoryMint" width="260" />
+  <img src="https://raw.githubusercontent.com/MemoryMint-Midnight/memorymint/main/assets/logo-profile.png" alt="MemoryMint" width="300" />
 </p>
 
 <h2 align="center">MemoryMint</h2>
